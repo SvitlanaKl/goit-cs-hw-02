@@ -32,3 +32,4 @@ done
 
 echo "Website status check completed."
 echo "Results have been logged in $log_file"
+# 
